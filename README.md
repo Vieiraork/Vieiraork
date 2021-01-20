@@ -4,7 +4,7 @@ A little description of me.
 
 ### Who I am?
 
-My name is William, I study Software Enginner passion for technology, hardware, machine learning and other things.
+My name is William, I study Software Enginner, I have passion for technology, hardware, machine learning and other things.
 
 ### Tecnology's
 
