@@ -21,7 +21,9 @@ My name is William, I am a Software Enginner study, I have passion for technolog
 
 ### Views
 
-<img src="https://komarev.com/ghpvc/?username=Vieiraork&color=green" alt="Vieiraork" /> 
+<div>
+    <img src="https://komarev.com/ghpvc/?username=Vieiraork&color=green" alt="Vieiraork" /> 
+</div>
 
 ### Status
 
@@ -34,4 +36,5 @@ My name is William, I am a Software Enginner study, I have passion for technolog
 ### Social
 <div>
   <a href="https://www.twitch.tv/vieiraork"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+  <a href="https://www.linkedin.com/in/william-vieira-ba4503160/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
