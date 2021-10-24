@@ -27,7 +27,7 @@ My name is William, I am a Software Enginner study, I have passion for technolog
 
 ### Status
 
-<div>
+<div style="display: flex; flex-direction: column;">
     <a href="https://beacons.ia/Vieiraork" >
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vieiraork&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Status github">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vieiraork&layout=compact&langs_count=16&theme=dracula" alt="Status de linguagem">
