@@ -8,7 +8,7 @@ My name is William call me Vieiraork if your prefer, I like games, programming, 
 
 ### Langs and tech
 
-<div style="display: inline-block;">
+<div style="">
     <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
