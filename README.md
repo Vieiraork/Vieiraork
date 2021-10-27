@@ -4,7 +4,7 @@ A little description of me.
 
 ### Who I am?
 
-My name is William call me Vieiraork if your prefer, I like games, programming, music and films. My main programming language is Python, but I had contact with [Julia](https://julialang.org/), [Go](https://golang.org/), [PHP](https://www.php.net/), [Java](https://www.oracle.com/java/technologies/downloads/) and [Jython](https://www.jython.org/).
+My name is William call me Vieiraork if your prefer, I like games, programming, music and films. My main programming language is Python, but I had contact with [Python](https://www.python.org/), [Julia](https://julialang.org/), [Go](https://golang.org/), [PHP](https://www.php.net/), [Java](https://www.oracle.com/java/technologies/downloads/) and [Jython](https://www.jython.org/).
 
 ### Langs and tech
 
