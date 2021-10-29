@@ -19,7 +19,7 @@ My name is William call me Vieiraork if your prefer, I like games, programming, 
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql">
 </div>
 
-### Profile views
+### Profile visits
 
 <div>
     <img src="https://komarev.com/ghpvc/?username=Vieiraork&color=green" alt="Vieiraork" style="float: left;"/> 
