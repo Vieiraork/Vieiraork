@@ -8,7 +8,7 @@ My name is William call me Vieiraork if your prefer, I like games, programming, 
 
 ### Langs and tech
 
-<div style="">
+<div>
     <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -17,12 +17,6 @@ My name is William call me Vieiraork if your prefer, I like games, programming, 
     <img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql">
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql">
-</div>
-
-### Profile visits
-
-<div>
-    <img src="https://komarev.com/ghpvc/?username=Vieiraork&color=green" alt="Vieiraork" style="float: left;"/> 
 </div>
 
 ### Status
@@ -34,7 +28,8 @@ My name is William call me Vieiraork if your prefer, I like games, programming, 
 </div>
   
 ### Social
-<div class="social" style="display: flex; align-items: center">
+    
+<div class="social">
   <a href="https://www.twitch.tv/vieiraork"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
   <a href="https://www.linkedin.com/in/william-vieira-ba4503160/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
