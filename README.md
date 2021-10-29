@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A little description of me.
+Describing me.
 
 ### Who I am?
 
