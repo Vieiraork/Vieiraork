@@ -24,8 +24,8 @@ My name is William call me Vieiraork if your prefer, I like games, programming, 
 
 ### PC specs
 
-    - CPU: <img src="https://img.shields.io/badge/AMD-FX_4300-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-    - GPU: <img src="https://img.shields.io/badge/AMD-Radeon_R7_370-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+   - CPU: <img src="https://img.shields.io/badge/AMD-FX_4300-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+   - GPU: <img src="https://img.shields.io/badge/AMD-Radeon_R7_370-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 
 ### Status
 
