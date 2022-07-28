@@ -7,7 +7,7 @@ Describing me.
 My name is William call me Vieiraork if your prefer, I like games, programming, music and films. My main programming language is [Python](https://www.python.org/), but I had contact with [Julia](https://julialang.org/), [Go](https://golang.org/), [PHP](https://www.php.net/), [Java](https://www.oracle.com/java/technologies/downloads/) and [Jython](https://www.jython.org/).
 
 ### Tech and tools
-   - Python (2 year study)
+   - Python (2 years study)
    - Java
    - JavaScript
    - HTML
